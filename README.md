@@ -1,14 +1,24 @@
+# Laravel---Restoran-Padang
+
+Ini adalah proyek Laravel yang berfungsi sebagai platform pemesanan makanan.
+
+# Kelompok 4
+
+|                    |                                                                     |
+| ------------------ | ------------------------------------------------------------------- |
+| **Nama Anggota**   | Arvilanti Devani                                      (22104410075) |
+|                    | Nur Cindy Intan Fanderella                            (22104410098) |
+|                    | Hanik Hatul Halimah                                   (22104410101) |
+|                    | Wasi'atul Jannah                                      (22104410121) |
+| **Kelas**          | TI B                                                                |
+| **Semester**       | 4                                                                   |
+| **Mata Kuliah**    | Pemrograman Web Lanjut                                              |
+| **Dosen Pengampu** | Saiful Nur Budiman, S.Kom., M.Kom                                   |
+
+
 <p align="center">
  <img src="https://github.com/kmarsha/kasir-restoran/blob/master/public/img/welcome-page.png" alt="Project Welcome Page">
 </p>
-<h3 align="center">RM Padang</h3>
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/kmarsha-kasir--restoran-brown.svg)](https://github.com/kmarsha)
-[![Status](https://img.shields.io/badge/status-closed-white.svg)]()
-
-</div>
 
 ---
 
