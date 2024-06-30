@@ -1,7 +1,7 @@
 <p align="center">
  <img src="https://github.com/kmarsha/kasir-restoran/blob/master/public/img/welcome-page.png" alt="Project Welcome Page">
 </p>
-<h3 align="center">Our Café</h3>
+<h3 align="center">RM Padang</h3>
 
 <div align="center">
 
