@@ -22,21 +22,6 @@ Ini adalah proyek Laravel yang berfungsi sebagai platform pemesanan makanan.
 
 ---
 
-<p align="center"> Our Café is a cashier project based on a simple restaurant management
-    <br> 
-</p>
-
-## 📝 Table of Contents
-
-- [User Role](#user_role)
-- [Flowchart](#flowchart)
-- [Setting up a local environment](#getting_started)
-- [Usage](#usage)
-- [Preview](#preview)
-- [Technology Stack](#tech_stack)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgments)
-
 ## 🧐 User Role <a name = "user_role"></a>
 
 Completed with 4 Users
@@ -44,10 +29,6 @@ Completed with 4 Users
 - Cashier/Kasir (managed transactions)
 - Manager/Manajer (managed menus and print transactions)
 - Customer/Pelanggan (buy menu)
-
-## 💡 Flowchart <a name = "flowchart"></a>
-
-<p align="center"><img src="https://github.com/kmarsha/kasir-restoran/blob/master/public/img/flowchart.png"></p>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -147,6 +128,3 @@ Login with Role Pelanggan/Customer (may you prefer to register)
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [SweetAlert](https://sweetalert2.github.io/) - Notification
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kmarsha](https://github.com/kmarsha) - Idea & Initial work
