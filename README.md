@@ -1,3 +1,5 @@
+File revisi terdapat di branches/master
+
 # Laravel---Restoran-Padang
 
 Ini adalah proyek Laravel yang berfungsi sebagai platform pemesanan makanan.
